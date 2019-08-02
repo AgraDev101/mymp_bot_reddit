@@ -18,6 +18,7 @@ Bharatiya Janata Party
 
 Uttar Pradesh
 ```
+Use strictly `!mymp` keyword to summon the bot followed by constituency name e,g,. `!mymp Agra`
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
