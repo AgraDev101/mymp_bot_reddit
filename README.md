@@ -6,7 +6,7 @@ Mymp bot is a reddit bot to fetch Indian MP(member of parliament) info using thi
 ## Usage
 
 ```python
-!mymp Agra
+!mymp Agra # reddit comment
 
 # returns 
 
@@ -14,7 +14,7 @@ Mymp bot is a reddit bot to fetch Indian MP(member of parliament) info using thi
 
 Bharatiya Janata Party
 
-1, Teachers` Home University CampusKhandari, Agra-282002, Uttar PradeshTels. (0562) 2527933, 09412750008 (M)
+1, Teachers` Home University CampusKhandari, Agra-282002, Uttar PradeshTels. (####) #####, ########## (M)
 
 Uttar Pradesh'
 foobar.pluralize('goose') # returns 'geese'
