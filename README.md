@@ -10,15 +10,13 @@ Mymp bot is a reddit bot to fetch Indian MP(member of parliament) info using thi
 
 # returns 
 
-'Prof. Ram Shankar
+Prof. Ram Shankar
 
 Bharatiya Janata Party
 
 1, Teachers` Home University CampusKhandari, Agra-282002, Uttar PradeshTels. (####) #####, ########## (M)
 
-Uttar Pradesh'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+Uttar Pradesh
 ```
 
 ## Contributing
