@@ -6,17 +6,17 @@ Mymp bot is a reddit bot to fetch Indian MP(member of parliament) info using thi
 ## Usage
 
 ```python
-!mymp Agra # reddit comment
+!mymp Agra # reddit comment where "Agra" is constituency name
 
 # returns 
 
-Prof. Ram Shankar
+Prof. Ram Shankar # MP's Full Name
 
-Bharatiya Janata Party
+Bharatiya Janata Party # Affiliated Party
 
 1, Teachers` Home University CampusKhandari, Agra-282002, Uttar PradeshTels. (####) #####, ########## (M)
 
-Uttar Pradesh
+Uttar Pradesh # State
 ```
 ### Use strictly `!mymp` keyword to summon the bot followed by constituency name e,g,. `!mymp Agra`
 
