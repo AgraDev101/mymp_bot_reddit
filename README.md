@@ -1,7 +1,7 @@
 # Mymp_Bot
 
 Mymp bot is a reddit bot to fetch Indian MP(member of parliament) info using this
-[API, github page](https://github.com/devarsh1997/InfoMP) written in Python using [Praw](https://praw.readthedocs.io/en/latest/) library to make API calls to reddit
+[API, github page](https://github.com/devarsh1997/InfoMP) written in Python using [Praw](https://praw.readthedocs.io/en/latest/) library.
 
 ## Usage
 
